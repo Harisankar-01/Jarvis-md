@@ -119,7 +119,7 @@ System({
    const { result } = await getJson(config.API + "download/insta?url=" + match);
    if (result.length === 0) return await message.send("_No media found for this Instagram URL_");
    for (const video of result) {
-     await message.sendFromUrl(video.download_link, { caption: "_*Download 🤍*_" });
+     await message.sendFromUrl(video.download_link, /*{ caption: "_*Download 🤍*_" });*/
     }
 });
 
