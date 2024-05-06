@@ -37,7 +37,7 @@ module.exports = {
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi &mention Welcome to &gname",
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi $mention It was Nice Seeing you",
   MEDIA_DATA: process.env.MEDIA_DATA|| 'ʟɪꜱᴛ ᴍᴇɴᴜ;🍃⃞𝙸𝚃𝙰𝙲𝙷𝙸 𝚄𝙲𝙷𝙸𝙷𝙰❤️҉️;https://i.imgur.com/ltPPMTh.jpeg',
-  SUDO: process.env.SUDO || '917025673121,918714803727',
+  SUDO: process.env.SUDO || '917510727828,+917025985321',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
   BOT_INFO: process.env.BOT_INFO || '🍃⃞𝙸𝚃𝙰𝙲𝙷𝙸 𝚄𝙲𝙷𝙸𝙷𝙰❤️҉️;𝐻𝑎𝑟𝑖𝑠𝑎𝑛𝑘𝑎𝑟🍃;https://i.imgur.com/i9Vtv0W.mp4',
