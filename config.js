@@ -17,7 +17,7 @@ module.exports = {
   AUDIO_DATA: process.env.AUDIO_DATA || '🍃⃞𝙸𝚃𝙰𝙲𝙷𝙸 𝚄𝙲𝙷𝙸𝙷𝙰❤️҉️;𓅆;https://i.imgur.com/NehCBoQ.jpeg',
   WARN_COUNT: process.env.WARN_COUNT || '3',
   ALIVE_DATA : process.env.ALIVE_DATA || "_*HEY &sender i am alive now*_\n\n_PLATFORM: &platform_\n_RUNTIME : &runtime_\n\n_. type alive to update your alive message_",
-  SESSION_ID: process.env.SESSION_ID || 'Jarvis_1282_83c2_3fd3_ac62_44dc_6484_01fb_355e',
+  SESSION_ID: process.env.SESSION_ID || 'Jarvis_6731_883e_8deb_a61d_d2e9_0542_b1c3_e33a',
   LANG: process.env.LANG || 'EN',
   ELEVENLABS: process.env.ELEVENLABS,
   HANDLERS: process.env.HANDLER  || '!',
